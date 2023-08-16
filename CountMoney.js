@@ -54,7 +54,7 @@ const countMoney = function(money){
         console.log("Lỗi");
     }
 }
-
+//qweqwe
 
 countMoney(2960000);
 
