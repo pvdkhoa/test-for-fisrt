@@ -6,6 +6,6 @@ let countWord = function(text){
     count = charArray.length;
     console.log(`đoạn văn có ${count} từ`);
 }
-
+//OKOKOKO
 countWord("pham vu dang khoa")
 //qweqeqeqweqe
