@@ -8,3 +8,4 @@ let countWord = function(text){
 }
 
 countWord("pham vu dang khoa")
+//qweqeqeqweqe
